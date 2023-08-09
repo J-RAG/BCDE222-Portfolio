@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7h3c6ygX6rr+l6JDfMe49qAMq2uOEPnjs7yDOINf2Q+ROBZ6i+Og/fp1rXS7iJkS9mPqqJOD2jdpF5GW+2SX9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jra0108\\OneDrive - Ara Institute of Canterbury\\2023\\Sem2\\BCDE222\\Week 1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jra0108\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jra0108\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jra0108\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jra0108\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
