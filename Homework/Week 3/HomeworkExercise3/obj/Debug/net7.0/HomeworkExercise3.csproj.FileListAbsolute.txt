@@ -1,0 +1,15 @@
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\bin\Debug\net7.0\HomeworkExercise3.exe
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\bin\Debug\net7.0\HomeworkExercise3.deps.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\bin\Debug\net7.0\HomeworkExercise3.runtimeconfig.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\bin\Debug\net7.0\HomeworkExercise3.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\bin\Debug\net7.0\HomeworkExercise3.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\HomeworkExercise3.csproj.AssemblyReference.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\HomeworkExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\HomeworkExercise3.AssemblyInfoInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\HomeworkExercise3.AssemblyInfo.cs
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\HomeworkExercise3.csproj.CoreCompileInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\HomeworkExercise3.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\refint\HomeworkExercise3.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\HomeworkExercise3.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\HomeworkExercise3.genruntimeconfig.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Homework\Week 3\HomeworkExercise3\obj\Debug\net7.0\ref\HomeworkExercise3.dll

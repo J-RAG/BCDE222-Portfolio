@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="HomeworkExercise4.ConsoleView" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAABQAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HomeworkExercise4.Methods">
+    <Position X="8.5" Y="1" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIACAAhIIACAAAAEAQEAAAGAAAAAAAAAAgQQAgEAQ=</HashCode>
+      <FileName>Methods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeworkExercise4.MethodsController">
+    <Position X="0.5" Y="1.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>MethodsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeworkExercise4.Program">
+    <Position X="4.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HomeworkExercise4.IView">
+    <Position X="0.75" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAABQAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>IView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
