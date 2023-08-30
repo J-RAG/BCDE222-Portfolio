@@ -1,0 +1,15 @@
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\bin\Debug\net7.0\UsingFileInConsoleApp.exe
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\bin\Debug\net7.0\UsingFileInConsoleApp.deps.json
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\bin\Debug\net7.0\UsingFileInConsoleApp.runtimeconfig.json
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\bin\Debug\net7.0\UsingFileInConsoleApp.dll
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\bin\Debug\net7.0\UsingFileInConsoleApp.pdb
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\UsingFileInConsoleApp.csproj.AssemblyReference.cache
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\UsingFileInConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\UsingFileInConsoleApp.AssemblyInfoInputs.cache
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\UsingFileInConsoleApp.AssemblyInfo.cs
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\UsingFileInConsoleApp.csproj.CoreCompileInputs.cache
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\UsingFileInConsoleApp.dll
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\refint\UsingFileInConsoleApp.dll
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\UsingFileInConsoleApp.pdb
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\UsingFileInConsoleApp.genruntimeconfig.cache
+C:\Temp\BCDE222Demos\UsingFileInConsoleApp\UsingFileInConsoleApp\obj\Debug\net7.0\ref\UsingFileInConsoleApp.dll
