@@ -1,0 +1,15 @@
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\bin\Debug\net7.0\IndexerDemo.exe
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\bin\Debug\net7.0\IndexerDemo.deps.json
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\bin\Debug\net7.0\IndexerDemo.runtimeconfig.json
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\bin\Debug\net7.0\IndexerDemo.dll
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\bin\Debug\net7.0\IndexerDemo.pdb
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\IndexerDemo.csproj.AssemblyReference.cache
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\IndexerDemo.AssemblyInfoInputs.cache
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\IndexerDemo.AssemblyInfo.cs
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\IndexerDemo.dll
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\refint\IndexerDemo.dll
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\IndexerDemo.pdb
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\IndexerDemo.genruntimeconfig.cache
+C:\Temp\BCDE222Demos\IndexerDemo\IndexerDemo\obj\Debug\net7.0\ref\IndexerDemo.dll

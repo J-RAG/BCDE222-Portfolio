@@ -1,0 +1,45 @@
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.exe
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.deps.json
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.runtimeconfig.json
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.dll
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.pdb
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.csproj.AssemblyReference.cache
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.AssemblyInfoInputs.cache
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.AssemblyInfo.cs
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.dll
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\refint\PropertyDemo.dll
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.pdb
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.genruntimeconfig.cache
+C:\Temp\BCDE222Demos\PropertyDemo\PropertyDemo\obj\Debug\net7.0\ref\PropertyDemo.dll
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.exe
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.deps.json
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.runtimeconfig.json
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.dll
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.pdb
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.csproj.AssemblyReference.cache
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.AssemblyInfoInputs.cache
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.AssemblyInfo.cs
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.dll
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\refint\PropertyDemo.dll
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.pdb
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.genruntimeconfig.cache
+C:\Users\xul\OneDrive - Ara Institute of Canterbury\Desktop\BCDE222 2023S2\Week05\PropertyDemo\PropertyDemo\obj\Debug\net7.0\ref\PropertyDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.exe
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.deps.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.runtimeconfig.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\bin\Debug\net7.0\PropertyDemo.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.csproj.AssemblyReference.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.AssemblyInfoInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.AssemblyInfo.cs
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\refint\PropertyDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\PropertyDemo.genruntimeconfig.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 5\Property Demo\PropertyDemo\PropertyDemo\obj\Debug\net7.0\ref\PropertyDemo.dll
