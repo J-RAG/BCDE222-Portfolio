@@ -1,0 +1,26 @@
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.exe
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.deps.json
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.json
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.dev.json
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.dll
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.pdb
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csprojAssemblyReference.cache
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfoInputs.cache
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfo.cs
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csproj.CoreCompileInputs.cache
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.dll
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.pdb
+H:\Ara\Teaching\BCDE222 2021S2\Week03\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.genruntimeconfig.cache
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.exe
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.deps.json
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.json
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.pdb
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfo.cs
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.pdb
+C:\Users\admin\Desktop\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.genruntimeconfig.cache
