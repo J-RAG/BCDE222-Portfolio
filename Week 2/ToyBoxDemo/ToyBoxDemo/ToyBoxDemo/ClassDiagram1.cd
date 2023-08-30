@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ToyBoxDemo.Box">
+    <Position X="1.5" Y="5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAEAAAAAACAAEAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Box.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_allMyToys" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ToyBoxDemo.Program">
+    <Position X="7.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToyBoxDemo.Toy">
+    <Position X="7.25" Y="5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAIAAAEAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Toy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
