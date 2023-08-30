@@ -1,0 +1,30 @@
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.exe
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.deps.json
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.runtimeconfig.json
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.dll
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.pdb
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.csproj.AssemblyReference.cache
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.AssemblyInfoInputs.cache
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.AssemblyInfo.cs
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.csproj.CoreCompileInputs.cache
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.dll
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\refint\StructDemo.dll
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.pdb
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.genruntimeconfig.cache
+C:\Temp\BCDE222Demos\StructDemo\StructDemo\obj\Debug\net7.0\ref\StructDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.exe
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.deps.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.runtimeconfig.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.csproj.AssemblyReference.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.AssemblyInfoInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.AssemblyInfo.cs
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\refint\StructDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.genruntimeconfig.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Struct Demo\StructDemo\StructDemo\obj\Debug\net7.0\ref\StructDemo.dll

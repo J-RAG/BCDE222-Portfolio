@@ -1,0 +1,30 @@
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.exe
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.deps.json
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.runtimeconfig.json
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.dll
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.pdb
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.csproj.AssemblyReference.cache
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.AssemblyInfoInputs.cache
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.AssemblyInfo.cs
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.csproj.CoreCompileInputs.cache
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.dll
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\refint\StringDemo.dll
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.pdb
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.genruntimeconfig.cache
+C:\Temp\BCDE222Demos\StringDemo\StringDemo\obj\Debug\net7.0\ref\StringDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.exe
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.deps.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.runtimeconfig.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\bin\Debug\net7.0\StringDemo.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.csproj.AssemblyReference.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.AssemblyInfoInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.AssemblyInfo.cs
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\refint\StringDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\StringDemo.genruntimeconfig.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\String Demo\StringDemo\StringDemo\obj\Debug\net7.0\ref\StringDemo.dll
