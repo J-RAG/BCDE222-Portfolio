@@ -1,0 +1,30 @@
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.exe
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.deps.json
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.runtimeconfig.json
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.dll
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.pdb
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.csproj.AssemblyReference.cache
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.AssemblyInfoInputs.cache
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.AssemblyInfo.cs
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.dll
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\refint\EnumDemo.dll
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.pdb
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.genruntimeconfig.cache
+C:\Temp\BCDE222Demos\EnumDemo\EnumDemo\obj\Debug\net7.0\ref\EnumDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.exe
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.deps.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.runtimeconfig.json
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\bin\Debug\net7.0\EnumDemo.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.csproj.AssemblyReference.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.AssemblyInfoInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.AssemblyInfo.cs
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\refint\EnumDemo.dll
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.pdb
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\EnumDemo.genruntimeconfig.cache
+C:\Users\jra0108\OneDrive - Ara Institute of Canterbury\2023\Sem2\BCDE222\Week 4\Enum Demo\EnumDemo\EnumDemo\obj\Debug\net7.0\ref\EnumDemo.dll
