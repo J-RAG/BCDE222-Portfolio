@@ -2,7 +2,7 @@ Version: 1 Date 30/08/2023
 -Created a Hard Coded Level that is required to implement the Move's Section
 
 MOSCOW CheckList Covered: (CBD- Could be Done)
-DONE	1. Must have a game board with correct co-ordinates
+DONE>>>>>>	1. Must have a game board with correct co-ordinates
 	2. Must have movement for Rook
 	3. Must have movement for King
 	4. Must have movement for Queen
@@ -11,14 +11,14 @@ DONE	1. Must have a game board with correct co-ordinates
 	7. Must be able to detect incorrect movement
 	8. Must have the ability to select pieces to move
 	9. Must not accept movement to empty squares
-DONE	10. Must count total number of moves
-DONE	11. Must highlight current selected piece
-CBD	12. Must have a reset button ~~ COULD CHANGE BUT SHOULD BE DONE
-CBD	13. Must have a undo button
-DONE	14. Must have a timer
-DONE	15. Must show time taken to beat level
+DONE>>>	10. Must count total number of moves
+DONE>>>	11. Must highlight current selected piece
+CBD >>>	12. Must have a reset button ~~ COULD CHANGE BUT SHOULD BE DONE>>>
+CBD >>>	13. Must have a undo button
+DONE>>>	14. Must have a timer
+DONE>>>	15. Must show time taken to beat level
 	16. Must acknowledge level completion
-DONE	17. Must display level name
+DONE>>>	17. Must display level name
 	18. Should draw a path
 	19. Could show stats after Game is finished
 	20. Could highlight the moveable square when hovered over
